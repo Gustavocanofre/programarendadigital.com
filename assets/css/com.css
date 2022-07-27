@@ -285,4 +285,9 @@ tr {
     color: white;
   }
 
-  
+.fone {
+  max-width:27px;
+    max-height:27px;
+    width: auto;
+    height: auto;
+}
